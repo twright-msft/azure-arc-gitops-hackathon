@@ -1,0 +1,1 @@
+# azure-arc-gitops-hackathon
