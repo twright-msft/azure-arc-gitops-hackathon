@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
   - name: hello-world
-    image: busybox
+    image: alpine
     command: ['sh', '-c', 'echo Hello World 2! && sleep 3600']
